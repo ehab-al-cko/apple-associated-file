@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "E32XBQK4Q5.com.checkout.Checkout3DS-Sample-Debug",
+        "paths": ["*"]
+      }
+    ]
+  }
+}	
